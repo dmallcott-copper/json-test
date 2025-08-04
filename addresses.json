@@ -1,0 +1,44 @@
+[
+  {
+    "address": "0xd969ce0dff4eba97a0ea21a5ccfc7c5ed27a6e7c",
+    "token": "ETH",
+    "chain": "ETH",
+    "clientId": "ALGO"
+  },
+  {
+    "address": "0xcd5934e9b3dc5f123746bb2a7eb6748e9caf4bea",
+    "token": "ETH",
+    "chain": "ETH",
+    "clientId": "PNDA"
+  },
+  {
+    "address": "bc1pscf83lqtup5m6kzhgd6q4gujmlx769a20j0zaw2ax3se969t4dk6ffmcrt",
+    "token": "BTC",
+    "chain": "BTC",
+    "clientId": "ALGO"
+  },
+  {
+    "address": "bc1pds7tr3jwskgv40weckw5swzytk482k7r5caf9r",
+    "token": "BTC",
+    "chain": "BTC",
+    "clientId": "CNBS"
+  },
+  {
+    "address": "HKnjQ7zMjz7ndqaX57HeYvpVLoauuczcnnhGW4JBD6Zi",
+    "token": "ETH",
+    "chain": "ETH",
+    "clientId": "CNBS"
+  },
+  {
+    "address": "0xed626fea2abdf4ac44d2db6cacdc31affa87947b",
+    "token": "USDT",
+    "chain": "ETH",
+    "clientId": "ALGO"
+  },
+  {
+    "address": "0xf34a33db71aff49ee5ccdcdbabc5fda9b58bc8de",
+    "token": "USDT",
+    "chain": "ETH",
+    "clientId": "CNBS"
+  }
+]
