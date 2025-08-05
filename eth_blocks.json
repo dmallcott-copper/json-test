@@ -8,7 +8,7 @@
     "gasLimit": 30000000,
     "gasUsed": 21000,
     "baseFeePerGas": 10000000000,
-    "transactions_root": "0xabcde1234567890abcde1234567890abcde1234567890abcde1234567890abcde",
+    "transactionsRoot": "0xabcde1234567890abcde1234567890abcde1234567890abcde1234567890abcde",
     "transactions": [
       {
         "hash": "0xabcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789",
@@ -31,7 +31,7 @@
     "gasLimit": 30000000,
     "gasUsed": 50000,
     "baseFeePerGas": 10500000000,
-    "transactions_root": "0xfedcbafedcba9876543210fedcba9876543210fedcba9876543210fedcba987",
+    "transactionsRoot": "0xfedcbafedcba9876543210fedcba9876543210fedcba9876543210fedcba987",
     "transactions": [
       {
         "hash": "0xfedcba9876543210fedcba9876543210fedcba9876543210fedcba9876543210",
@@ -54,7 +54,7 @@
     "gasLimit": 30000000,
     "gasUsed": 70000,
     "baseFeePerGas": 11000000000,
-    "transactions_root": "0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef",
+    "transactionsRoot": "0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef",
     "transactions": [
       {
         "hash": "0xabcdef0123456789fedcba9876543210fedcba9876543210fedcba9876543210",
@@ -86,7 +86,7 @@
     "gasLimit": 30000000,
     "gasUsed": 21000,
     "baseFeePerGas": 11200000000,
-    "transactions_root": "0xbcdef01234567890bcdef01234567890bcdef01234567890bcdef01234567890",
+    "transactionsRoot": "0xbcdef01234567890bcdef01234567890bcdef01234567890bcdef01234567890",
     "transactions": [
       {
         "hash": "0x1234567890123456789012345678901234567890123456789012345678901234",
@@ -109,7 +109,7 @@
     "gasLimit": 30000000,
     "gasUsed": 65000,
     "baseFeePerGas": 11500000000,
-    "transactions_root": "0xdef01234567890def01234567890def01234567890def01234567890def012345",
+    "transactionsRoot": "0xdef01234567890def01234567890def01234567890def01234567890def012345",
     "transactions": [
       {
         "hash": "0xabcdef01234567890123456789abcdef0123456789012345678901234567890",
