@@ -5,8 +5,8 @@
       {
         "from": "0x00000000000000000000000000000000000000000",
         "to": "0xd969ce0dff4eba97a0ea21a5ccfc7c5ed27a6e7c",
-        "amount": 1000000000000000000000000,
-        "fee": 10000000000,
+        "amount": 100000000000000000000,
+        "fee": 100000000000000000,
         "data": "0x"
       }
     ]
@@ -17,15 +17,15 @@
       {
         "from": "0xd969ce0dff4eba97a0ea21a5ccfc7c5ed27a6e7c",
         "to": "0xcd5934e9b3dc5f123746bb2a7eb6748e9caf4bea",
-        "amount": 1000000000,
-        "fee": 1000,
+        "amount": 10000000000000000000,
+        "fee": 100000000000000000,
         "data": "0x"
       },
       {
         "from": "0xd969ce0dff4eba97a0ea21a5ccfc7c5ed27a6e7c",
         "to": "HKnjQ7zMjz7ndqaX57HeYvpVLoauuczcnnhGW4JBD6Zi",
-        "amount": 1000000000,
-        "fee": 1000,
+        "amount": 10000000000000000000,
+        "fee": 100000000000000000,
         "data": "0x"
       }
     ]
@@ -37,7 +37,7 @@
         "from": "HKnjQ7zMjz7ndqaX57HeYvpVLoauuczcnnhGW4JBD6Zi",
         "to": "0xUSDTCONTRACT",
         "amount": 0,
-        "fee": 1000,
+        "fee": 100000000000000000,
         "data": "0xanothercontractcall",
         "logs": [
           {
